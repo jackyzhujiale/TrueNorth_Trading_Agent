@@ -90,7 +90,7 @@ python3 construct_portfolio.py samples/jiale_trader_ratings_btc_sol_intc_mu.csv 
 
 Use-case screenshot:
 
-![Using jiale_trader_rating skill to generate portfolio ratings](assets/jiale_trader_rating_usecase.png)
+![Using jiale_trader_rating skill to generate portfolio ratings](assets/skill_usecase.png)
 
 ## Output Format
 
